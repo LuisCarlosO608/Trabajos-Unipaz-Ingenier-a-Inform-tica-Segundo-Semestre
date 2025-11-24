@@ -1,0 +1,6 @@
+nest=str( input("ingrese nombre"))
+nota1= float(input("ingrese nota 1"))
+nota2= float(input("ingrese nota 2"))
+nota3= float(input("ingrese nota 3"))
+snotas=round((nota1 + nota2 + nota3)/3, 2)
+print(nest,"su nota final es", snotas)
