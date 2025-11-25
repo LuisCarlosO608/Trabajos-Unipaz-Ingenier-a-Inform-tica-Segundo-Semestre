@@ -1,14 +1,3 @@
-Yo={"nombre":"Luis Carlos",
-         "edad":"19",
-         "¿Que estudia?":"",
-         "cedula":""
-}
-
-
-
-
-
-
-
-
-print(Yo)
+Sal=int(input("ingrese salario mensual"))
+saln=sal*12
+print("el salario anual es", saln)
